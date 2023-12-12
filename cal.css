@@ -1,0 +1,126 @@
+ body{
+    background: #0F2027;  
+background: -webkit-linear-gradient(to right, #2C5364, #203A43, #0F2027);  
+background: linear-gradient(to right, #2C5364, #203A43, #0F2027); 
+
+align-items: center;
+justify-content: center;
+text-align: center;
+}
+.btn{
+    background-color:#bec0c3  hsl(216,4%,75%)rgb(190,192,195);
+    color: #42403d  hsl(36,4%,25%)rgb(66,64,61);
+    display: inline-block;
+    height: 70px;
+    width: 70px;
+    border-radius: 50%;
+    position: relative;
+    top: 96px;
+    justify-content: space-between;
+    font-size: 30px;
+    
+}
+.btn:hover{
+    background-color: rgba(100, 148, 237, 0.685);
+    box-shadow: 6px 5px 1px 0px rgba(0, 0, 255, .2);
+}
+#zero{
+    width: 145px;
+    border-radius: 40%;
+    
+}
+.container{
+    display: inline-block;
+    width: 200px;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    margin-top: 3%;
+    right: 5%;
+    
+} 
+
+.row{
+    background-color: white;
+     height: 550px;
+     width: 300px;
+     border-radius: 6%;
+     border: 4px solid black;
+     box-shadow: 5px 5px 5px  rgba(2);
+
+}
+
+#input{
+    height: 60px;
+    /* border: px solid black; */
+    border-radius: 9%;
+    font-size: 40px;
+    position: relative;
+    top: 80px;
+    text-align: end;
+}
+#line{
+    position: relative;
+    top:102px ;
+   
+    background-color: rgba(0, 0, 0, 0.637);
+    height: -1px;
+    width: 90px;
+}
+
+#all{
+    background-color: rgba(0, 0, 0, 0.712);
+    color: rgba(255, 255, 255, 0.808);
+}
+#clear{
+    background-color: rgba(0, 0, 0, 0.712);
+    color: rgba(255, 255, 255, 0.808);
+}
+#per{
+    background-color: rgba(0, 0, 0, 0.712);
+    color: rgba(255, 255, 255, 0.808);
+}
+#dive{
+    
+    background-color: rgba(47, 0, 255, 0.836);
+    color: rgb(255, 238, 0);
+}
+
+#dive{
+    
+    background-color: rgba(47, 0, 255, 0.836);
+    color: rgb(255, 238, 0);
+}
+
+#multi{
+    
+    background-color: rgba(47, 0, 255, 0.836);
+    color: rgb(255, 238, 0);
+}
+
+#min{
+    
+    background-color: rgba(47, 0, 255, 0.836);
+    color: rgb(255, 238, 0);
+}
+
+#plus{
+    
+    background-color: rgba(47, 0, 255, 0.836);
+    color: rgb(255, 238, 0);
+}
+#equal{
+    
+    background-color: rgba(47, 0, 255, 0.836);
+    color: rgb(255, 238, 0);
+}
+
+
+#camera{
+    background-color: black;
+    height: 20px;
+    width: 90px;
+    border-radius: 0px 0px 40px 40px;
+    color: rgba(250, 235, 215, 0.158);
+}
+
